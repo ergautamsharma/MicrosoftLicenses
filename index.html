@@ -1,0 +1,10 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Transform your enterprise with Microsoft solutions</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://drive.google.com/file/d/18z51zUcI7sSQeimqUKKIK2WmOfwaK89z/preview" width=100% height="2000" allow="autoplay"></iframe>
+  </body>
+</html>
